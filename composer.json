@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/Magehit_Newproducts",
+    "name": "openmage-module-fostering\/magehit_newproducts",
     "type": "magento-module",
-    "license": "Open-Software-License-(OSL)",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "New Products version 1.0.0",
     "authors": [
